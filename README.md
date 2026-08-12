@@ -1,63 +1,32 @@
 # Hi, I'm Joyel Jojo 👋
 
-I'm a **Computer Science graduate and Associate** with hands-on experience in **data validation, workflow automation, data analysis, and software development**.
+Computer Science graduate and Associate with experience in **Python, SQL, data analysis, workflow automation, and software development**.
 
-I enjoy building practical solutions using Python and exploring how technology can improve everyday processes through automation and data-driven decision making.
+## 🛠️ Skills
 
-## 🚀 What I'm Currently Working On
+**Languages:** Python, SQL, Java (Basic), C, HTML
+**Data & Analytics:** Pandas, NumPy, Matplotlib, Power BI, DAX, Excel
+**Databases:** MySQL, MongoDB, SQLite
+**Development:** React, REST APIs, Git, GitHub
 
-* Building and improving **Python-based automation and scheduling solutions**
-* Working with **data validation, operational workflows, and process improvement**
-* Developing projects involving **Python, SQL, Power BI, React, and MongoDB**
-* Strengthening my skills in **software development, data analytics, and automation**
+## 🚀 Projects
 
-## 🛠️ Tools & Technologies
-
-**Languages:**
-Python, SQL, Java (Basic), C, HTML
-
-**Data & Analytics:**
-Pandas, NumPy, Matplotlib, Power BI, DAX, Microsoft Excel
-
-**Databases:**
-MySQL, MongoDB, SQLite
-
-**Development:**
-React, REST APIs, Git, GitHub
-
-**Other:**
-Data Validation, Process Automation, Machine Learning Fundamentals
-
-## 📌 Featured Projects
-
-### Mortgage Closing Scheduler
-
-A Python-based workflow automation project designed to streamline attorney assignment and scheduling processes.
-
-### Course Management Platform
-
-A full-stack application built using React, Python, MongoDB, and REST APIs.
-
-### Performance Dashboard
-
-An interactive Power BI dashboard for analyzing business performance through data modeling, DAX, and visualizations.
+* **Mortgage Closing Scheduler** — Python-based workflow automation and scheduling.
+* **Course Management Platform** — Full-stack application using React, Python, MongoDB, and REST APIs.
+* **Performance Dashboard** — Power BI dashboard with data modeling, DAX, and visualizations.
 
 ## 💼 Experience
 
 **Associate — The Einfach Group**
-Working with operational data, data validation, workflow management, automation, and stakeholder coordination.
+Data validation, workflow management, automation, and operational processes.
 
-**Machine Learning Intern — Phenetek Engineering**
-Worked on a handwritten digit recognition project using Python, NumPy, and Matplotlib.
+**ML Intern — Phenetek Engineering**
+Python-based handwritten digit recognition and data preprocessing.
 
 **Python Intern — Camino Infotech**
-Worked on Python-based data processing and analysis of historical gold-rate datasets using Pandas and NumPy.
+Python-based data processing and analysis using Pandas and NumPy.
 
-## 📫 How to Reach Me
+## 📫 Connect
 
 **LinkedIn:** https://www.linkedin.com/in/joyeljojo/
-**GitHub:** https://github.com/
 **Email:** joyeljojo333@gmail.com
-
-I'm always interested in learning, building useful projects, and connecting with people working in **software development, data, automation, and technology**.
-
